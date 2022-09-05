@@ -1,0 +1,3 @@
+./move/*
+*src/*/build/*
+*src/*/storage/*
