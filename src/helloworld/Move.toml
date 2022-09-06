@@ -7,3 +7,4 @@ MoveNursery = { git = "https://github.com/move-language/move.git", subdir = "lan
 
 [addresses]
 std =  "0x1"
+test = "0x03"
